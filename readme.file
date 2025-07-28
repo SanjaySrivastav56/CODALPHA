@@ -1,0 +1,47 @@
+Web Scraping Project – BooksToScrape
+
+**Internship Task – CodeAlpha | Data Analytics**
+
+This project is a part of my internship at **CodeAlpha**, where I explored the basics of web scraping using Python.  
+I scraped real-time book data (title, price, and rating) from [BooksToScrape.com](http://books.toscrape.com), a website made specifically for practicing web scraping.
+
+Project Objective
+
+- Extract structured data (title, price, rating) from an e-commerce-style website
+- Store the scraped data into a CSV file
+- Visualize the data using charts
+
+ Tools & Libraries Used
+
+- Python
+- requests
+- BeautifulSoup (bs4)
+- pandas
+- matplotlib / seaborn 
+
+Data Collected
+
+From 5 pages of the website, the following details were scraped:
+
+- Book Title
+- Price (in £)
+- Rating (e.g., One, Two, Three, Four, Five)
+
+Insights
+
+- Most books are rated as "Three".
+- The majority of book prices fall between £20–£40.
+
+About Me
+
+I’m **G Sanjay Srivastav**, currently pursuing a B.Tech in Computer Science.  
+This project helped me understand how real-world data can be extracted from websites and used for analysis.
+
+Status
+
+Completed on: July 2025  
+Internship Domain: Data Analytics  
+Internship Partner: [CodeAlpha](https://www.codealpha.tech)
+
+Thank you for viewing my project! 😊  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/sanjay-srivastav-550302291) for collaboration or feedback.
